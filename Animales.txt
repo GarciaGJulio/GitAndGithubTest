@@ -1,0 +1,5 @@
+Gato
+Perro
+Rinoceronte
+Ornitorrinco
+Puma
