@@ -3,3 +3,4 @@ Perro
 Rinoceronte
 Ornitorrinco
 Puma
+El gallo Claudio
