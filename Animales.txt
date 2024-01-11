@@ -3,6 +3,7 @@ Perro
 Rinoceronte
 Ornitorrinco
 Puma
+Vaca lola
 El gallo Bartolito
 La vaca lola También
 El burrito Sabaner
